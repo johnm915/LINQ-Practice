@@ -1,0 +1,16 @@
+C:\Users\John\repos\PracticeLinq\bin\Debug\net5.0\PracticeLinq.exe
+C:\Users\John\repos\PracticeLinq\bin\Debug\net5.0\PracticeLinq.deps.json
+C:\Users\John\repos\PracticeLinq\bin\Debug\net5.0\PracticeLinq.runtimeconfig.json
+C:\Users\John\repos\PracticeLinq\bin\Debug\net5.0\PracticeLinq.runtimeconfig.dev.json
+C:\Users\John\repos\PracticeLinq\bin\Debug\net5.0\PracticeLinq.dll
+C:\Users\John\repos\PracticeLinq\bin\Debug\net5.0\ref\PracticeLinq.dll
+C:\Users\John\repos\PracticeLinq\bin\Debug\net5.0\PracticeLinq.pdb
+C:\Users\John\repos\PracticeLinq\obj\Debug\net5.0\PracticeLinq.csproj.AssemblyReference.cache
+C:\Users\John\repos\PracticeLinq\obj\Debug\net5.0\PracticeLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\repos\PracticeLinq\obj\Debug\net5.0\PracticeLinq.AssemblyInfoInputs.cache
+C:\Users\John\repos\PracticeLinq\obj\Debug\net5.0\PracticeLinq.AssemblyInfo.cs
+C:\Users\John\repos\PracticeLinq\obj\Debug\net5.0\PracticeLinq.csproj.CoreCompileInputs.cache
+C:\Users\John\repos\PracticeLinq\obj\Debug\net5.0\PracticeLinq.dll
+C:\Users\John\repos\PracticeLinq\obj\Debug\net5.0\ref\PracticeLinq.dll
+C:\Users\John\repos\PracticeLinq\obj\Debug\net5.0\PracticeLinq.pdb
+C:\Users\John\repos\PracticeLinq\obj\Debug\net5.0\PracticeLinq.genruntimeconfig.cache
